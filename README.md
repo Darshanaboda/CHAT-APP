@@ -1,1 +1,3 @@
 # CHAT-APP
+
+Android mini Project :: REAL TIME CHATR APPLICATION
